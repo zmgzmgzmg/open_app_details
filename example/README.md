@@ -5,6 +5,8 @@ Demonstrates how to use the openappdetails plugin.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+跳转到应用详情
+Openappdetails.platformVersion("包名");
 
 A few resources to get you started if this is your first Flutter project:
 
