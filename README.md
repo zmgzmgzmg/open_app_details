@@ -1,6 +1,8 @@
 # openappdetails
 
-A new Flutter plugin.跳转到程序详情
+A new Flutter plugin.
+
+#根据程序包名跳转到程序详情
 Openappdetails.platformVersion("包名");
 
 ## Getting Started
