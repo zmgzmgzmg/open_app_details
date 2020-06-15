@@ -1,17 +1,7 @@
 # openappdetails
 
-A new Flutter plugin.
-
-#根据程序包名跳转到程序详情
-Openappdetails.platformVersion("包名");
+Plug in to jump to system settings based on package name
 
 ## Getting Started
-
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+#根据程序包名跳转到程序详情
+usage Openappdetails.platformVersion("Package name");
