@@ -1,6 +1,6 @@
 name: openappdetails
 description: Plug in to jump to program details
-version: 0.0.2
+version: 0.0.1
 homepage: https://github.com/zmgzmgzmg/open_app_details.git
 environment:
   sdk: ">=2.7.0 <3.0.0"
